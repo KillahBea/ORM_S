@@ -1,0 +1,11 @@
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/bin/Debug/netcoreapp2.2/ORM_S.deps.json
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/bin/Debug/netcoreapp2.2/ORM_S.runtimeconfig.json
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/bin/Debug/netcoreapp2.2/ORM_S.runtimeconfig.dev.json
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/bin/Debug/netcoreapp2.2/ORM_S.dll
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/bin/Debug/netcoreapp2.2/ORM_S.pdb
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/obj/Debug/netcoreapp2.2/ORM_S.csprojAssemblyReference.cache
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/obj/Debug/netcoreapp2.2/ORM_S.csproj.CoreCompileInputs.cache
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/obj/Debug/netcoreapp2.2/ORM_S.AssemblyInfoInputs.cache
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/obj/Debug/netcoreapp2.2/ORM_S.AssemblyInfo.cs
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/obj/Debug/netcoreapp2.2/ORM_S.dll
+/Users/brittanischuhmacher/SDG/unit-3/ORM_S/obj/Debug/netcoreapp2.2/ORM_S.pdb
